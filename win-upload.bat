@@ -12,7 +12,7 @@ git commit -m "auto commit by win-upload.bat"
 echo '--------commit successfully--------'
 
 @REM git push -f https://github.com/YvetteYuX/Liftnode_diagnosis.git main
-git push -f https://github.com/YvetteYuX/Liftnode_diagnosis.git main
+git push -f https://github.com/YvetteYuX/Diagonosis-with-sd.git main
 @REM git remote add origin https://github.com/YvetteYuX/Liftnode_diagnosis.git
 @REM git push -u origin main
 echo '--------push to GitHub successfully--------'
